@@ -1,0 +1,12 @@
+A. What is reverse-i-search in a Linux terminal?
+- Search backward starting at the current line and moving ‘up’ through the history as necessary. This is an incremental search.
+
+B. How do you list out the hidden directories using Linux command line tool?
+- ls command is used to list all files in a given directory in Linux, and the hidden files are not listed by default using ls command.
+
+C. How comfortable are you with using Linux-based OS like Ubuntu, Centos, etc?
+- Ubuntu is familiar to me. So I'm pretty fine with it.
+
+D. Have you ever used Servers to host any web applications in the past? If yes, what
+services did you set up (Like- Apache/Nginx/FTP/SMTP, etc)?
+- I was not responsible for deployment in my last organization, but I know how to deploy a project. Yes, I worked with nginx when I hosted my personal project on AWS.
